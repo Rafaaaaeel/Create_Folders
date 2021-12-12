@@ -3,6 +3,6 @@
 ## What it does?
 It´s a simple program used to create some folders for you, the code it´s simple.
 
-## Why do i create this program?
+## Why do I create this program?
 
 I create to improve my programing logic, oo, clean code, and java skills
